@@ -1,0 +1,12 @@
+{
+  "p2_modelo": "ElasticNet",
+  "p2_mae_baseline": 52.4,
+  "p2_mae_modelo": 49.8,
+  "p2_ganho_pct": 5.1,
+  "p2_status": "Em validação",
+  "p3_modelo": "Abordagem hierárquica",
+  "p3_mae_baseline": 59.6,
+  "p3_mae_modelo": 57.3,
+  "p3_ganho_pct": 3.7,
+  "p3_status": "Em validação"
+}

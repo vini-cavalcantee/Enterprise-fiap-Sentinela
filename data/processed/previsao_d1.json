@@ -1,0 +1,9 @@
+{
+  "data_prevista": "2026-01-01",
+  "volume_previsto": 877.0,
+  "ultimo_dia": "2025-12-31",
+  "ultimo_valor_real": 755.0,
+  "media_movel_7d_recente": 858.9,
+  "modelo": "RandomForest",
+  "status": "Validado"
+}

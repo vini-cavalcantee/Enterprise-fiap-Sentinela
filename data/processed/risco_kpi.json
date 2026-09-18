@@ -1,0 +1,35 @@
+{
+  "formula": "violações esperadas = volume estimado × taxa de entrada em KPI × taxa de violação",
+  "p3_modelo": "Abordagem hierárquica (NB02)",
+  "p3_ganho_pct": 27.8,
+  "p3_status": "Em validação",
+  "p2_modelo": "ElasticNet (NB02)",
+  "p2_ganho_pct": 3.17,
+  "p2_status": "Em validação — resultado inconclusivo",
+  "p2": {
+    "volume_historico": 10005,
+    "pct_entrou_kpi": 16.9,
+    "n_entrou_kpi": 1690,
+    "pct_violacao_condicional": 0.65,
+    "n_violacoes_historico": 11,
+    "entrada_kpi_por_mes": {
+      "2025-09": 19.8,
+      "2025-10": 16.1,
+      "2025-11": 14.6,
+      "2025-12": 18.2
+    }
+  },
+  "p3": {
+    "volume_historico": 24598,
+    "pct_entrou_kpi": 23.6,
+    "n_entrou_kpi": 5817,
+    "pct_violacao_condicional": 0.86,
+    "n_violacoes_historico": 50,
+    "entrada_kpi_por_mes": {
+      "2025-09": 34.8,
+      "2025-10": 33.2,
+      "2025-11": 26.6,
+      "2025-12": 11.0
+    }
+  }
+}
